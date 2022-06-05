@@ -27,8 +27,8 @@ global.premium = ['6285876810596'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6285876810596' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Rizkiy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = 'Rizki Muhammad Adam' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'MasBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Rizkiy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Rizkiy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© MasBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Rizki Muhammad Adam-Own' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
